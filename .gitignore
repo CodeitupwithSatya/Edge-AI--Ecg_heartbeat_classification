@@ -1,0 +1,6 @@
+team.txt
+train.csv
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+*.zip
